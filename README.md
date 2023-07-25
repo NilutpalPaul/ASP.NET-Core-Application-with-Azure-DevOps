@@ -16,7 +16,7 @@ Step 1: Create a GitHub Repository
 
 -> Click on the "+" sign in the top-right corner and select "New repository."
 
--> Provide a repository name (e.g., SampleWebApp) and a brief description.
+-> Provide a repository name (e.g., ASP.NET Core Application with Azure DevOps) and a brief description.
 
 -> Choose public or private based on your preference.
 
@@ -52,7 +52,7 @@ Step 3: Connect GitHub Repository to Azure DevOps Project
 
 -> Follow the prompts to authorize Azure DevOps to access your GitHub account.
 
--> Select the GitHub repository you created earlier (e.g., SampleWebApp).
+-> Select the GitHub repository you created earlier (e.g., ASP.NET Core Application with Azure DevOps).
 
 -> Click "Save."
 
